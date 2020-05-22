@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1589862310 source:c:\users\maxi\desktop\2010\descarga\mendozapplabi-master\entregarparcial\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"dataColor.h"
+	"color.h"
+
+1589590279 c:\users\maxi\desktop\2010\descarga\mendozapplabi-master\entregarparcial\funciones.h
+
+1589590279 c:\users\maxi\desktop\2010\descarga\mendozapplabi-master\entregarparcial\datacolor.h
+
+1589590279 c:\users\maxi\desktop\2010\descarga\mendozapplabi-master\entregarparcial\color.h
+
+1589590279 source:c:\users\maxi\desktop\2010\descarga\mendozapplabi-master\entregarparcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1590119119 source:c:\users\maxi\desktop\2010\descarga\mendozapplabi-master\entregarparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"mascota.h"
+	"trabajo.h"
+	"informes.h"
+
+1590186305 c:\users\maxi\desktop\2010\descarga\mendozapplabi-master\entregarparcial\mascota.h
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+
+1589590279 c:\users\maxi\desktop\2010\descarga\mendozapplabi-master\entregarparcial\tipo.h
+
+1589590279 c:\users\maxi\desktop\2010\descarga\mendozapplabi-master\entregarparcial\servicio.h
+
+1590088658 c:\users\maxi\desktop\2010\descarga\mendozapplabi-master\entregarparcial\trabajo.h
+
+1590187172 source:c:\users\maxi\desktop\2010\descarga\mendozapplabi-master\entregarparcial\mascota.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"dataMascota.h"
+	"mascota.h"
+
+1589590279 c:\users\maxi\desktop\2010\descarga\mendozapplabi-master\entregarparcial\datamascota.h
+
+1589590279 source:c:\users\maxi\desktop\2010\descarga\mendozapplabi-master\entregarparcial\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"dataServicio.h"
+	"servicio.h"
+
+1589590279 c:\users\maxi\desktop\2010\descarga\mendozapplabi-master\entregarparcial\dataservicio.h
+
+1589704372 source:c:\users\maxi\desktop\2010\descarga\mendozapplabi-master\entregarparcial\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"dataTipo.h"
+	"tipo.h"
+
+1589590279 c:\users\maxi\desktop\2010\descarga\mendozapplabi-master\entregarparcial\datatipo.h
+
+1590187964 source:c:\users\maxi\desktop\2010\descarga\mendozapplabi-master\entregarparcial\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"mascota.h"
+	"dataTrabajo.h"
+	"trabajo.h"
+
+1589590279 c:\users\maxi\desktop\2010\descarga\mendozapplabi-master\entregarparcial\datatrabajo.h
+
+1590188143 source:c:\users\maxi\desktop\2010\descarga\mendozapplabi-master\entregarparcial\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"mascota.h"
+	"trabajo.h"
+
+1590186865 c:\users\maxi\desktop\2010\descarga\mendozapplabi-master\entregarparcial\informes.h
+	"mascota.h"
+	"trabajo.h"
+
